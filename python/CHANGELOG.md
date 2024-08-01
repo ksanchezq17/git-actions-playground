@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.13...v0.1.0) (2024-08-01)
+
+
+### Features
+
+* adding division ([9aeb241](https://github.com/ksanchezq17/git-actions-playground/commit/9aeb241b57204ebecf3e8cac71f889356a530d8b))
+
 ## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.12...v0.0.13) (2024-08-01)
 
 
