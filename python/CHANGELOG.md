@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.12...v0.0.13) (2024-08-01)
+
+
+### Bug Fixes
+
+* testing release ([8d89f9d](https://github.com/ksanchezq17/git-actions-playground/commit/8d89f9d879f16bcbeb5419c813f97faf24741bbf))
+
 ## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-01)
 
 
