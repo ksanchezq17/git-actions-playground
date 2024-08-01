@@ -8,7 +8,7 @@
         "path": "python",
         "release-type": "python"
       },
-    "my-app": {
+    "frontend": {
       "path": "my-app",
       "release-type": "node"
     }
