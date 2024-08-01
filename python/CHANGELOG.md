@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-01)
+
+
+### Bug Fixes
+
+* py module ([ff85d8a](https://github.com/ksanchezq17/git-actions-playground/commit/ff85d8a232faa6954639585677200ded79acd3a7))
+
 ## [0.0.13](https://github.com/ksanchezq17/release-please-test/compare/v0.0.12...v0.0.13) (2024-07-31)
 
 
