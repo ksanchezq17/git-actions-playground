@@ -1,0 +1,16 @@
+{
+    "include-component-in-tag": true,
+    "include-v-in-tag": true,
+    "tag-separator": "@",
+    "separate-pull-requests": true,
+    "packages": {
+      "python": {
+        "path": "python",
+        "release-type": "python"
+      },
+    "my-app": {
+      "path": "my-app",
+      "release-type": "node"
+    }
+  }
+}
