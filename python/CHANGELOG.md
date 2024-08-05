@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.11](https://github.com/ksanchezq17/git-actions-playground/compare/v0.2.0...v0.0.11) (2024-08-05)
+
+
+### Bug Fixes
+
+* fixing version on init.py ([25563f1](https://github.com/ksanchezq17/git-actions-playground/commit/25563f15a4b6045d86c56609baefceb27c44d4e3))
+
 ## [0.2.0](https://github.com/ksanchezq17/git-actions-playground/compare/v0.1.0...v0.2.0) (2024-08-05)
 
 
