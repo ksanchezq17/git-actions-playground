@@ -34,5 +34,5 @@ jobs:
             ${{ env.REPOSITORY_NAME }}:latest
       
       - name: Test image
-       run: |
-          docker run --rm  ${{ steps.test-build.outputs.imageid }}  
+        run: |
+            docker run --rm  ${{ steps.test-build.outputs.imageid }}  
