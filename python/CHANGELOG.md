@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-05)
+
+
+### Bug Fixes
+
+* liniting ([cf6bc9c](https://github.com/ksanchezq17/git-actions-playground/commit/cf6bc9c47a1dd341b2211427e212e4c383d43285))
+* setting version on init.py ([970cde6](https://github.com/ksanchezq17/git-actions-playground/commit/970cde61b58dbde339080622b9672e5a5f7d96ff))
+
 ## [0.0.11](https://github.com/ksanchezq17/git-actions-playground/compare/v0.2.0...v0.0.11) (2024-08-05)
 
 
