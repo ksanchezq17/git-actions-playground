@@ -34,4 +34,4 @@ all: install lint test format deploygit ls-files '*.py'
 
 build-python:
 	#cd python && python setup.py bdist_wheel --universal
-	python3 -m build python
+	python3 -m build python/mypython/

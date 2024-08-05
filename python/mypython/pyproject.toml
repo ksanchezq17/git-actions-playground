@@ -4,20 +4,31 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "mypython"
+name = "mck.mypython"
 description = "My Python package"
+requires-python = ">=3.8"
 authors = [{ name = "John Doe"}]
 dependencies = ["pandas>=1.0", "numpy>=1.19", "matplotlib>=3.0"]
-dynamic = ["version"]
+dynamic = ["version", "readme"]
 
 
 [tool.setuptools]
 include-package-data = true
-package-dir = { "" = "src" } 
+package-dir = { "" = "src" }
+
+[tool.setuptools.dynamic]
+version = { attr = "mypython.__version__" }
+readme = { content-type = "text/markdown", file = [
+    "README.md",
+] }
+
+[tool.setuptools.package-data]
+"*" = ["*.md", "www", "www/*", "www/**"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
 namespaces = false
+
 
 [tool.black]
 line-length = 88
@@ -35,3 +46,7 @@ testpaths = [
 [tool.flake8]
 max-line-length = 88
 ignore = "E203, E266, E501, W503, F401, F403, F405"
+
+
+[project.scripts]
+mypython = "mypython.calc.startup:main"
