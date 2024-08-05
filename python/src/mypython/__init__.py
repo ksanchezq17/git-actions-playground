@@ -1,4 +1,4 @@
-from mypython.module import calc_module
+from mypython.calc import calc_module
 
 _two_multiplayer = calc_module.multiplyer(2)
 _add_five = calc_module.adder(5)
