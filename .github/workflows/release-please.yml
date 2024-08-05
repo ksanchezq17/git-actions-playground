@@ -13,9 +13,14 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      - name: Read coda package version
+        id: package-version
+        run: echo "version=$(grep -Po '\d*\.\d*\.\d*' python/mypython/src/mypython/__init__.py)" >> "$GITHUB_OUTPUT"
+      
       - uses: googleapis/release-please-action@v4
         id: release
         with:
+          version: ${{ steps.package-version.outputs.version }}
           token: ${{ secrets.GITHUB_TOKEN }}
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
