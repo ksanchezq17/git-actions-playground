@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-06)
+
+
+### Bug Fixes
+
+* changing all to x ([caa9e18](https://github.com/ksanchezq17/git-actions-playground/commit/caa9e18e7e8c95c3ea3de1671654e13ee5e52d7f))
+
 ## [0.0.11](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.11) (2024-08-06)
 
 
