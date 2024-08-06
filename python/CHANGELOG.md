@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.12...v0.0.13) (2024-08-06)
+
+
+### Miscellaneous Chores
+
+* release 0.0.13 ([9c563a3](https://github.com/ksanchezq17/git-actions-playground/commit/9c563a330bfeb0a9c0a09dd6765fd9f94c968f06))
+
 ## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-06)
 
 
