@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.0.2...frontend@v1.1.0) (2024-08-06)
+
+
+### Features
+
+* hello world with color ([1424671](https://github.com/ksanchezq17/git-actions-playground/commit/14246717d1c2fe2f46f23a483defdcccca5d21b3))
+
 ## [1.0.2](https://github.com/ksanchezq17/git-actions-playground/compare/frontend-v1.0.1...frontend@v1.0.2) (2024-08-06)
 
 
