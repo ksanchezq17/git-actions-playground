@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.14](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.13...v0.0.14) (2024-08-06)
+
+
+### Bug Fixes
+
+* adding version .py ([eb0f257](https://github.com/ksanchezq17/git-actions-playground/commit/eb0f257e2d795e90915cb7a4b88686ad6de33921))
+
 ## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.12...v0.0.13) (2024-08-06)
 
 
