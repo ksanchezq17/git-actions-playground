@@ -7,8 +7,7 @@
     "packages": {
       "python": {
         "path": "python/mypython",
-        "release-type": "python",
-        "release-as": "0.0.11"
+        "release-type": "python"
       },
     "frontend": {
       "path": "my-app",
