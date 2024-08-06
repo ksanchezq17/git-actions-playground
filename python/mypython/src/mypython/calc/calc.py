@@ -3,7 +3,7 @@ def multiplyer(by: int):
 
 
 def adder(start: int):
-    return lambda y: start + y
+    return lambda x: start + x
 
 
 def subtraction(start: int):
