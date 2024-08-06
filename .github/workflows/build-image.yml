@@ -1,11 +1,12 @@
 name: Build and Publish Docker Image "latest"
 
 on:
-  repository_dispatch:
-    types: [release-latest]
+  release:
+    types: [published]
 
 jobs:
   build-and-push:
+    if: github.event.release.prerelease == false && github.event.release.draft == false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
