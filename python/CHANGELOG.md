@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.12...v0.0.13) (2024-08-06)
+
+
+### Bug Fixes
+
+* division ([f6f5bb4](https://github.com/ksanchezq17/git-actions-playground/commit/f6f5bb4c6b053bdc0f5a59cdcd594efd09c3ad82))
+
 ## [0.0.12](https://github.com/ksanchezq17/git-actions-playground/compare/v0.0.11...v0.0.12) (2024-08-05)
 
 
