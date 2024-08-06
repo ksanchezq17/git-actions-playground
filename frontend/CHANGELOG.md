@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.1.0...frontend@v1.1.1) (2024-08-06)
+
+
+### Bug Fixes
+
+* changed backg color ([91079d5](https://github.com/ksanchezq17/git-actions-playground/commit/91079d5c013acfe898df7be41fc52d11c6b4b247))
+
 ## [1.1.0](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.0.2...frontend@v1.1.0) (2024-08-06)
 
 
