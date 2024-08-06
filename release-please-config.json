@@ -6,7 +6,7 @@
     "separate-pull-requests": true,
     "packages": {
       "python": {
-        "path": "python",
+        "path": "python/mypython",
         "release-type": "python"
       },
     "frontend": {
