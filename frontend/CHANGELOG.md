@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.1.1...frontend@v0.0.13) (2024-08-06)
+
+
+### Miscellaneous Chores
+
+* release 0.0.13 ([9c563a3](https://github.com/ksanchezq17/git-actions-playground/commit/9c563a330bfeb0a9c0a09dd6765fd9f94c968f06))
+
 ## [1.1.1](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.1.0...frontend@v1.1.1) (2024-08-06)
 
 
