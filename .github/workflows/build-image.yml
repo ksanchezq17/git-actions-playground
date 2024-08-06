@@ -1,8 +1,8 @@
 name: Build and Publish Docker Image "latest"
 
 on:
-  release:
-    types: [published]
+  repository_dispatch:
+    types: [release-latest]
 
 jobs:
   build-and-push:
