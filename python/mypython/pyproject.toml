@@ -17,7 +17,7 @@ include-package-data = true
 package-dir = { "" = "src" }
 
 [tool.setuptools.dynamic]
-version = { attr = "mypython.__version__" }
+version = { attr = "mypython.version.__version__" }
 readme = { content-type = "text/markdown", file = [
     "README.md",
 ] }
