@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.1.3...frontend@v1.2.0) (2024-08-07)
+
+
+### Features
+
+* new feature ([cd1e14d](https://github.com/ksanchezq17/git-actions-playground/commit/cd1e14dc8fedb504047be4ba143befda89e6125d))
+
 ## [1.1.3](https://github.com/ksanchezq17/git-actions-playground/compare/frontend@v1.1.2...frontend@v1.1.3) (2024-08-07)
 
 
