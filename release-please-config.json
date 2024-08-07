@@ -10,7 +10,7 @@
         "release-type": "python"
       },
     "frontend": {
-      "path": "my-app",
+      "path": "frontend",
       "release-type": "node"
     }
   }
